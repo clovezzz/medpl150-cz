@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<title>Homework 10</title>
+
+</head>
+
+<body>
+
+<h1>CHOOSE YOUR OWN ADVENTURE</h1>
+
+ <img src="data-visualizations.png" width="50%">
+
+ <a href="index.html">Go to homepage</a>
+
+ <h2>Reflection</h2>
+<p>I chose to use the publicly available data set from data.gov on the Mega Millions winning numbers from the period of 2001 to present. The data represented is not the full set of winning numbers, but instead the "gold mega ball" value, which is an additional value that is drawn. I made the title graphic imitate the logo of the Mega Millions lottery.</p>
+
+</body>
+
+</html>
